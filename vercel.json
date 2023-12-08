@@ -3,8 +3,7 @@
     "name": "qm360",
     "builds": [
         {
-            "src": "index.html",
-            "use": "@versel/node"
+            "src": "index.html"
         }
     ],
     "routes": [
